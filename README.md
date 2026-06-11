@@ -29,4 +29,4 @@ Sections: Hero, Services, About, Work, Testimonials, CTA, Footer
 
 Email: hello@velour.co
 Phone: +91 99999 99999
-address: xyz
+address: XYZ Address, India, New Delhi 110001
